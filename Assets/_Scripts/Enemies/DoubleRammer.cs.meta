@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e8347bde6bc95b4db8ff2f327211158
+timeCreated: 1521560247
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _PEXPLO: {fileID: 1396070864339144, guid: b3f0d1f5c479bad4497e83853ee2d69a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

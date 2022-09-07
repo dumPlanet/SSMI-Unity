@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - Text GUI
+  - InGameController
+  - Skydome
+  - playerBolt
+  - HUD
+  - Enemies
+  - ParticlePlayer
+  - StayAlive
+  - PlanetsVFX
+  - Light
+  - PlayerRocket
+  - PowerUpRocket
+  - Fixer
+  - Feedback
+  - EnemyBullets
+  - EnemyBulletsExtentions
+  - Powerup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 971708321
+    locked: 0
+  - name: Enemies
+    uniqueID: 2036061921
+    locked: 0
+  - name: Background
+    uniqueID: 472811387
+    locked: 0

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b82c811bf8869fa41857fe3e7b838fbf
+timeCreated: 1497102647
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Orbitron
+  fontNames:
+  - Orbitron
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 253f3e81643ec244cbe6c16602d79bae, type: 3}
+  - {fileID: 12800000, guid: 3c5fc312076ffc140b0192849e6b4fb5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: spaceshootermankindinvation
+  assetBundleVariant: ft_main

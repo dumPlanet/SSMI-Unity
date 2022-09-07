@@ -1,0 +1,2231 @@
+fileFormatVersion: 2
+guid: 74c6de2917b7c8b44ad92acd329465a2
+timeCreated: 1517326764
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion0000
+    21300002: explosion0001
+    21300004: explosion0002
+    21300006: explosion0003
+    21300008: explosion0004
+    21300010: explosion0005
+    21300012: explosion0006
+    21300014: explosion0007
+    21300016: explosion0008
+    21300018: explosion0009
+    21300020: explosion0010
+    21300022: explosion0011
+    21300024: explosion0012
+    21300026: explosion0013
+    21300028: explosion0014
+    21300030: explosion0015
+    21300032: explosion0016
+    21300034: explosion0017
+    21300036: explosion0018
+    21300038: explosion0019
+    21300040: explosion0020
+    21300042: explosion0021
+    21300044: explosion0022
+    21300046: explosion0023
+    21300048: explosion0024
+    21300050: explosion0025
+    21300052: explosion0026
+    21300054: explosion0027
+    21300056: explosion0028
+    21300058: explosion0029
+    21300060: explosion0030
+    21300062: explosion0031
+    21300064: explosion0032
+    21300066: explosion0033
+    21300068: explosion0034
+    21300070: explosion0035
+    21300072: explosion0036
+    21300074: explosion0037
+    21300076: explosion0038
+    21300078: explosion0039
+    21300080: explosion0040
+    21300082: explosion0041
+    21300084: explosion0042
+    21300086: explosion0043
+    21300088: explosion0044
+    21300090: explosion0045
+    21300092: explosion0046
+    21300094: explosion0047
+    21300096: explosion0048
+    21300098: explosion0049
+    21300100: explosion0050
+    21300102: explosion0051
+    21300104: explosion0052
+    21300106: explosion0053
+    21300108: explosion0054
+    21300110: explosion0055
+    21300112: explosion0056
+    21300114: explosion0057
+    21300116: explosion0058
+    21300118: explosion0059
+    21300120: explosion0060
+    21300122: explosion0061
+    21300124: explosion0062
+    21300126: explosion0063
+    21300128: explosion0064
+    21300130: explosion0065
+    21300132: explosion0066
+    21300134: explosion0067
+    21300136: explosion0068
+    21300138: explosion0069
+    21300140: explosion0070
+    21300142: explosion0071
+    21300144: explosion0072
+    21300146: explosion0073
+    21300148: explosion0074
+    21300150: explosion0075
+    21300152: explosion0076
+    21300154: explosion0077
+    21300156: explosion0078
+    21300158: explosion0079
+    21300160: explosion0080
+    21300162: explosion0081
+    21300164: explosion0082
+    21300166: explosion0083
+    21300168: explosion0084
+    21300170: explosion0085
+    21300172: explosion0086
+    21300174: explosion0087
+    21300176: explosion0088
+    21300178: explosion0089
+    21300180: explosion0090
+    21300182: explosion0091
+    21300184: explosion0092
+    21300186: explosion0093
+    21300188: explosion0094
+    21300190: explosion0095
+    21300192: explosion0096
+    21300194: explosion0097
+    21300196: explosion0098
+    21300198: explosion0099
+    21300200: explosion0100
+    21300202: explosion0101
+    21300204: explosion0102
+    21300206: explosion0103
+    21300208: explosion0104
+    21300210: explosion0105
+    21300212: explosion0106
+    21300214: explosion0107
+    21300216: explosion0108
+    21300218: explosion0109
+    21300220: explosion0110
+    21300222: explosion0111
+    21300224: explosion0112
+    21300226: explosion0113
+    21300228: explosion0114
+    21300230: explosion0115
+    21300232: explosion0116
+    21300234: explosion0117
+    21300236: explosion0118
+    21300238: explosion0119
+    21300240: explosion0120
+    21300242: Explosion_3_0
+    21300244: Explosion_3_1
+    21300246: Explosion_3_2
+    21300248: Explosion_3_3
+    21300250: Explosion_3_4
+    21300252: Explosion_3_5
+    21300254: Explosion_3_6
+    21300256: Explosion_3_7
+    21300258: Explosion_3_8
+    21300260: Explosion_3_9
+    21300262: Explosion_3_10
+    21300264: Explosion_3_11
+    21300266: Explosion_3_12
+    21300268: Explosion_3_13
+    21300270: Explosion_3_14
+    21300272: Explosion_3_15
+    21300274: Explosion_3_16
+    21300276: Explosion_3_17
+    21300278: Explosion_3_18
+    21300280: Explosion_3_19
+    21300282: Explosion_3_20
+    21300284: Explosion_3_21
+    21300286: Explosion_3_22
+    21300288: Explosion_3_23
+    21300290: Explosion_3_24
+    21300292: Explosion_3_25
+    21300294: Explosion_3_26
+    21300296: Explosion_3_27
+    21300298: Explosion_3_28
+    21300300: Explosion_3_29
+    21300302: Explosion_3_30
+    21300304: Explosion_3_31
+    21300306: Explosion_3_32
+    21300308: Explosion_3_33
+    21300310: Explosion_3_34
+    21300312: Explosion_3_35
+    21300314: Explosion_3_36
+    21300316: Explosion_3_37
+    21300318: Explosion_3_38
+    21300320: Explosion_3_39
+    21300322: Explosion_3_40
+    21300324: Explosion_3_41
+    21300326: Explosion_3_42
+    21300328: Explosion_3_43
+    21300330: Explosion_3_44
+    21300332: Explosion_3_45
+    21300334: Explosion_3_46
+    21300336: Explosion_3_47
+    21300338: Explosion_3_48
+    21300340: Explosion_3_49
+    21300342: Explosion_3_50
+    21300344: Explosion_3_51
+    21300346: Explosion_3_52
+    21300348: Explosion_3_53
+    21300350: Explosion_3_54
+    21300352: Explosion_3_55
+    21300354: Explosion_3_56
+    21300356: Explosion_3_57
+    21300358: Explosion_3_58
+    21300360: Explosion_3_59
+    21300362: Explosion_3_60
+    21300364: Explosion_3_61
+    21300366: Explosion_3_62
+    21300368: Explosion_3_63
+    21300370: Explosion_3_64
+    21300372: Explosion_3_65
+    21300374: Explosion_3_66
+    21300376: Explosion_3_67
+    21300378: Explosion_3_68
+    21300380: Explosion_3_69
+    21300382: Explosion_3_70
+    21300384: Explosion_3_71
+    21300386: Explosion_3_72
+    21300388: Explosion_3_73
+    21300390: Explosion_3_74
+    21300392: Explosion_3_75
+    21300394: Explosion_3_76
+    21300396: Explosion_3_77
+    21300398: Explosion_3_78
+    21300400: Explosion_3_79
+    21300402: Explosion_3_80
+    21300404: Explosion_3_81
+    21300406: Explosion_3_82
+    21300408: Explosion_3_83
+    21300410: Explosion_3_84
+    21300412: Explosion_3_85
+    21300414: Explosion_3_86
+    21300416: Explosion_3_87
+    21300418: Explosion_3_88
+    21300420: Explosion_3_89
+    21300422: Explosion_3_90
+    21300424: Explosion_3_91
+    21300426: Explosion_3_92
+    21300428: Explosion_3_93
+    21300430: Explosion_3_94
+    21300432: Explosion_3_95
+    21300434: Explosion_3_96
+    21300436: Explosion_3_97
+    21300438: Explosion_3_98
+    21300440: Explosion_3_99
+    21300442: Explosion_3_100
+    21300444: Explosion_3_101
+    21300446: Explosion_3_102
+    21300448: Explosion_3_103
+    21300450: Explosion_3_104
+    21300452: Explosion_3_105
+    21300454: Explosion_3_106
+    21300456: Explosion_3_107
+    21300458: Explosion_3_108
+    21300460: Explosion_3_109
+    21300462: Explosion_3_110
+    21300464: Explosion_3_111
+    21300466: Explosion_3_112
+    21300468: Explosion_3_113
+    21300470: Explosion_3_114
+    21300472: Explosion_3_115
+    21300474: Explosion_3_116
+    21300476: Explosion_3_117
+    21300478: Explosion_3_118
+    21300480: Explosion_3_119
+    21300482: Explosion_3_120
+    21300484: Explosion_3_121
+    21300486: Explosion_3_122
+    21300488: Explosion_3_123
+    21300490: Explosion_3_124
+    21300492: Explosion_3_125
+    21300494: Explosion_3_126
+    21300496: Explosion_3_127
+    21300498: Explosion_3_128
+    21300500: Explosion_3_129
+    21300502: Explosion_3_130
+    21300504: Explosion_3_131
+    21300506: Explosion_3_132
+    21300508: Explosion_3_133
+    21300510: Explosion_3_134
+    21300512: Explosion_3_135
+    21300514: Explosion_3_136
+    21300516: Explosion_3_137
+    21300518: Explosion_3_138
+    21300520: Explosion_3_139
+    21300522: Explosion_3_140
+    21300524: Explosion_3_141
+    21300526: Explosion_3_142
+    21300528: Explosion_3_143
+    21300530: Explosion_3_144
+    21300532: Explosion_3_145
+    21300534: Explosion_3_146
+    21300536: Explosion_3_147
+    21300538: Explosion_3_148
+    21300540: Explosion_3_149
+    21300542: Explosion_3_150
+    21300544: Explosion_3_151
+    21300546: Explosion_3_152
+    21300548: Explosion_3_153
+    21300550: Explosion_3_154
+    21300552: Explosion_3_155
+    21300554: Explosion_3_156
+    21300556: Explosion_3_157
+    21300558: Explosion_3_158
+    21300560: Explosion_3_159
+    21300562: Explosion_3_160
+    21300564: Explosion_3_161
+    21300566: Explosion_3_162
+    21300568: Explosion_3_163
+    21300570: Explosion_3_164
+    21300572: Explosion_3_165
+    21300574: Explosion_3_166
+    21300576: Explosion_3_167
+    21300578: Explosion_3_168
+    21300580: Explosion_3_169
+    21300582: Explosion_3_170
+    21300584: Explosion_3_171
+    21300586: Explosion_3_172
+    21300588: Explosion_3_173
+    21300590: Explosion_3_174
+    21300592: Explosion_3_175
+    21300594: Explosion_3_176
+    21300596: Explosion_3_177
+    21300598: Explosion_3_178
+    21300600: Explosion_3_179
+    21300602: Explosion_3_180
+    21300604: Explosion_3_181
+    21300606: Explosion_3_182
+    21300608: Explosion_3_183
+    21300610: Explosion_3_184
+    21300612: Explosion_3_185
+    21300614: Explosion_3_186
+    21300616: Explosion_3_187
+    21300618: Explosion_3_188
+    21300620: Explosion_3_189
+    21300622: Explosion_3_190
+    21300624: Explosion_3_191
+    21300626: Explosion_3_192
+    21300628: Explosion_3_193
+    21300630: Explosion_3_194
+    21300632: Explosion_3_195
+    21300634: Explosion_3_196
+    21300636: Explosion_3_197
+    21300638: Explosion_3_198
+    21300640: Explosion_3_199
+    21300642: Explosion_3_200
+    21300644: Explosion_3_201
+    21300646: Explosion_3_202
+    21300648: Explosion_3_203
+    21300650: Explosion_3_204
+    21300652: Explosion_3_205
+    21300654: Explosion_3_206
+    21300656: Explosion_3_207
+    21300658: Explosion_3_208
+    21300660: Explosion_3_209
+    21300662: Explosion_3_210
+    21300664: Explosion_3_211
+    21300666: Explosion_3_212
+    21300668: Explosion_3_213
+    21300670: Explosion_3_214
+    21300672: Explosion_3_215
+    21300674: Explosion_3_216
+    21300676: Explosion_3_217
+    21300678: Explosion_3_218
+    21300680: Explosion_3_219
+    21300682: Explosion_3_220
+    21300684: Explosion_3_221
+    21300686: Explosion_3_222
+    21300688: Explosion_3_223
+    21300690: Explosion_3_224
+    21300692: Explosion_3_225
+    21300694: Explosion_3_226
+    21300696: Explosion_3_227
+    21300698: Explosion_3_228
+    21300700: Explosion_3_229
+    21300702: Explosion_3_230
+    21300704: Explosion_3_231
+    21300706: Explosion_3_232
+    21300708: Explosion_3_233
+    21300710: Explosion_3_234
+    21300712: Explosion_3_235
+    21300714: Explosion_3_236
+    21300716: Explosion_3_237
+    21300718: Explosion_3_238
+    21300720: Explosion_3_239
+    21300722: Explosion_3_240
+    21300724: Explosion_3_241
+    21300726: Explosion_3_242
+    21300728: Explosion_3_243
+    21300730: Explosion_3_244
+    21300732: Explosion_3_245
+    21300734: Explosion_3_246
+    21300736: Explosion_3_247
+    21300738: Explosion_3_248
+    21300740: Explosion_3_249
+    21300742: Explosion_3_250
+    21300744: Explosion_3_251
+    21300746: Explosion_3_252
+    21300748: Explosion_3_253
+    21300750: Explosion_3_254
+    21300752: Explosion_3_255
+    21300754: Explosion_3_256
+    21300756: Explosion_3_257
+    21300758: Explosion_3_258
+    21300760: Explosion_3_259
+    21300762: Explosion_3_260
+    21300764: Explosion_3_261
+    21300766: Explosion_3_262
+    21300768: Explosion_3_263
+    21300770: Explosion_3_264
+    21300772: Explosion_3_265
+    21300774: Explosion_3_266
+    21300776: Explosion_3_267
+    21300778: Explosion_3_268
+    21300780: Explosion_3_269
+    21300782: Explosion_3_270
+    21300784: Explosion_3_271
+    21300786: Explosion_3_272
+    21300788: Explosion_3_273
+    21300790: Explosion_3_274
+    21300792: Explosion_3_275
+    21300794: Explosion_3_276
+    21300796: Explosion_3_277
+    21300798: Explosion_3_278
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion0000
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1514
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0001
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1544
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0002
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0003
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1389
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0004
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1425
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0005
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 858
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0006
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1041
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0007
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1084
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5116279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0008
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1129
+        width: 43
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0009
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1853
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5090909, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0010
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1176
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0011
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1226
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0012
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1907
+        width: 59
+        height: 61
+      alignment: 9
+      pivot: {x: 0.44067797, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0013
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1278
+        width: 50
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0014
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1737
+        width: 52
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0015
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1794
+        width: 54
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0016
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1970
+        width: 68
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0017
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 576
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0018
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 420
+        width: 73
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5205479, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0019
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 488
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0020
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 962
+        width: 74
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0021
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 445
+        width: 73
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0022
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 779
+        width: 80
+        height: 90
+      alignment: 9
+      pivot: {x: 0.525, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0023
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 871
+        width: 73
+        height: 89
+      alignment: 9
+      pivot: {x: 0.46575344, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0024
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1470
+        width: 83
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0025
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 468
+        width: 76
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0026
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 479
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.48101267, y: 0.49473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0027
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1647
+        width: 81
+        height: 88
+      alignment: 9
+      pivot: {x: 0.54320985, y: 0.53409094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 317
+        width: 95
+        height: 92
+      alignment: 9
+      pivot: {x: 0.56842107, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0029
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 666
+        width: 101
+        height: 91
+      alignment: 9
+      pivot: {x: 0.55445546, y: 0.5494506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0030
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 389
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: 0.52873564, y: 0.5168539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0031
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1550
+        width: 80
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5375, y: 0.5473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0032
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 642
+        width: 91
+        height: 104
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0033
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 550
+        width: 89
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5168539, y: 0.5252525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0034
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 420
+        width: 88
+        height: 95
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.5368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0035
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 794
+        width: 100
+        height: 103
+      alignment: 9
+      pivot: {x: 0.54, y: 0.52427185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0036
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 675
+        width: 99
+        height: 102
+      alignment: 9
+      pivot: {x: 0.53535354, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0037
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 568
+        width: 89
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5168539, y: 0.5809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0038
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 515
+        width: 88
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0039
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 632
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4787234, y: 0.5904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 94
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.54310346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0041
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 389
+        width: 96
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0042
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 556
+        width: 97
+        height: 108
+      alignment: 9
+      pivot: {x: 0.52577317, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0043
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 910
+        width: 107
+        height: 106
+      alignment: 9
+      pivot: {x: 0.57009345, y: 0.5849057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0044
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 737
+        width: 101
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5445545, y: 0.60504204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0045
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 442
+        width: 96
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5535714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0046
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 517
+        width: 93
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5268817, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0047
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 501
+        width: 96
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0048
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1010
+        width: 115
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5304348, y: 0.55932206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0049
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 622
+        width: 98
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5408163, y: 0.57522124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0050
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 927
+        width: 109
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5412844, y: 0.56302524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0051
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 899
+        width: 108
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5462963, y: 0.56198347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0052
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1776
+        width: 125
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0053
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 790
+        width: 108
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5462963, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0054
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1340
+        width: 106
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5859375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0055
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1482
+        width: 121
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.5793651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0056
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1318
+        width: 120
+        height: 133
+      alignment: 9
+      pivot: {x: 0.55833334, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0057
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1054
+        width: 111
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.5813953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0058
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1065
+        width: 114
+        height: 131
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.57251906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0059
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1048
+        width: 116
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0060
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1198
+        width: 114
+        height: 134
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.5895522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0061
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1180
+        width: 117
+        height: 136
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.5955882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0062
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1018
+        width: 115
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5043478, y: 0.5912409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0063
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1769
+        width: 125
+        height: 135
+      alignment: 9
+      pivot: {x: 0.456, y: 0.6074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0064
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1334
+        width: 121
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5206612, y: 0.61870503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0065
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1186
+        width: 116
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.60273975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0066
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1314
+        width: 117
+        height: 148
+      alignment: 9
+      pivot: {x: 0.50427353, y: 0.6013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0067
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1177
+        width: 116
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5086207, y: 0.6074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0068
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1464
+        width: 121
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5123967, y: 0.63013697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0069
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1179
+        width: 118
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0070
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1290
+        width: 119
+        height: 147
+      alignment: 9
+      pivot: {x: 0.52100843, y: 0.5986394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0071
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1475
+        width: 121
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4876033, y: 0.6081081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0072
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1625
+        width: 124
+        height: 149
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.62416106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0073
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1321
+        width: 120
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.60958904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0074
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1630
+        width: 123
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5985401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0075
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1469
+        width: 126
+        height: 143
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.55944055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0076
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1908
+        width: 136
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5735294, y: 0.5539568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0077
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1754
+        width: 131
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5496183, y: 0.5586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0078
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1906
+        width: 132
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5530303, y: 0.5319149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0079
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1901
+        width: 137
+        height: 146
+      alignment: 9
+      pivot: {x: 0.540146, y: 0.5410959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0080
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1749
+        width: 133
+        height: 148
+      alignment: 9
+      pivot: {x: 0.56390977, y: 0.5608108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0081
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1899
+        width: 140
+        height: 148
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.5675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0082
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1761
+        width: 135
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0083
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1610
+        width: 131
+        height: 142
+      alignment: 9
+      pivot: {x: 0.54198474, y: 0.5633803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0084
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1616
+        width: 131
+        height: 139
+      alignment: 9
+      pivot: {x: 0.55725193, y: 0.53956836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0085
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1598
+        width: 130
+        height: 149
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5704698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0086
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1612
+        width: 123
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.5323741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0087
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1906
+        width: 125
+        height: 141
+      alignment: 9
+      pivot: {x: 0.536, y: 0.53900707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0088
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1482
+        width: 122
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5491803, y: 0.5410959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0089
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1757
+        width: 135
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0090
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1753
+        width: 131
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5114504, y: 0.5629139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0091
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1901
+        width: 135
+        height: 146
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.53424656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0092
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1334
+        width: 121
+        height: 146
+      alignment: 9
+      pivot: {x: 0.553719, y: 0.53424656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0093
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1614
+        width: 131
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.537931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0094
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1895
+        width: 131
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0095
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1439
+        width: 126
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.522293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0096
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1130
+        width: 117
+        height: 158
+      alignment: 9
+      pivot: {x: 0.52991456, y: 0.5316456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0097
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1453
+        width: 126
+        height: 161
+      alignment: 9
+      pivot: {x: 0.515873, y: 0.55279505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0098
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1318
+        width: 120
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0099
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1018
+        width: 115
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0100
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 894
+        width: 112
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.51265824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0101
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 633
+        width: 98
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.5031447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0102
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 858
+        width: 103
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5339806, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0103
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1029
+        width: 110
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.5548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 411
+        width: 96
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0105
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 748
+        width: 108
+        height: 144
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 884
+        width: 108
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5874126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 759
+        width: 103
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.5771812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0108
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 651
+        width: 99
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.649635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0109
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 302
+        width: 95
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50526315, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0110
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 739
+        width: 99
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5252525, y: 0.5804196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 855
+        width: 104
+        height: 153
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.5424837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0112
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1185
+        width: 105
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5619048, y: 0.5620915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 713
+        width: 102
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.60714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 572
+        width: 100
+        height: 139
+      alignment: 9
+      pivot: {x: 0.51, y: 0.6115108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0115
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 636
+        width: 98
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.6357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0116
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 916
+        width: 108
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.6258503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0117
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 778
+        width: 101
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5247525, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0118
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 480
+        width: 96
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5104167, y: 0.58441556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0119
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1022
+        width: 109
+        height: 153
+      alignment: 9
+      pivot: {x: 0.49541286, y: 0.6013072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion0120
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1157
+        width: 117
+        height: 159
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.591195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
